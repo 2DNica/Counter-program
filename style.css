@@ -1,0 +1,39 @@
+#labelform {
+    display: block;
+    font-size: 4em;
+    text-align: center;
+
+}
+
+.title {
+    margin: auto;
+    text-align: center;
+    padding: 12px;
+    font-size: 28px;
+    color: rgb(10, 10, 94);
+    font-family: Verdana;
+}
+
+.container {
+    text-align: center;
+    font: size 3em;
+
+}
+
+.buttons {
+    padding: 10px 15px;
+    color: rgb(2, 2, 2);
+    border-radius: solid;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.buttons:hover {
+    background-color: rgb(49, 49, 95);
+
+}
+
+#body {
+    background-color: rgb(203, 201, 207);
+    text-align: center;
+}
