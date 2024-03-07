@@ -1,2 +1,2 @@
 # Counter-program
-HTML - CSS - JAVASCRIPT *Programa basic -entry level
+HTML - CSS - JAVASCRIPT *Basic Program  -entry level
